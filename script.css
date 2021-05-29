@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: aqua;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.Name_of_objects{
+    font-size: 30px;
+    color:black;
+}
+#camera {
+    border: 2px dashed blue;
+    height: 200px;
+    width: 300px;
+    align-items: center;
+}
